@@ -16,3 +16,8 @@
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/iamasifhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/iamasifhossain" height="30" width="40" /></a>
 </p>
 
+
+[![asifhossain-git's GitHub | Stats](https://stats.quira.sh/asifhossain-git/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=asifhossain-git)
+[![asifhossain-git's GitHub | Languages Over Time](https://stats.quira.sh/asifhossain-git/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=asifhossain-git)
+
+
